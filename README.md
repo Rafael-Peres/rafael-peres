@@ -10,7 +10,7 @@
 My name is Rafael Peres, Back-End Developer and passionate about Technology.
 
 - :blue_heart: Techs: Node.js, TypeScript, Docker, Microservices, Jenkins, AWS, Jest among others.
-- :books: Studying software engineering, project standards, automated testing and microservices :heart:
+- :books: Studying software engineering, Design Patterns, automated testing and microservices :heart:
 
 
 
