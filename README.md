@@ -1,16 +1,16 @@
-### Hi there 👋
+# :man_technologist: Lucas Bittencourt
 
-<!--
-**Rafael-Peres/rafael-peres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Peres)](https://github.com/Rafael-Peres)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-peres-0830a713b/)](https://www.linkedin.com/in/rafael-peres-0830a713b/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/orafaelperes)](https://twitter.com/orafaelperes)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelperes199@gmail.com)](mailto:rafaelperes199@gmail.com)
 
-Here are some ideas to get you started:
+## Hi There! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Rafael Peres, Back-End Developer and passionate about Technology.
+
+- :blue_heart: Techs: Node.js, TypeScript, Docker, Microservices, Jenkins, AWS, Jest among others.
+- :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
+
+
+
